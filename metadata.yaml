@@ -1,0 +1,31 @@
+_repo: Once-upon-a-time-animal-stories_72063
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bailey, Carolyn Sherwin
+    alias: Hill, Carolyn Sherwin Bailey
+    birthdate: 1875
+    deathdate: 1961
+    gutenberg_agent_id: '8801'
+    url: http://www.gutenberg.org/2009/agents/8801
+    wikipedia: https://en.wikipedia.org/wiki/Carolyn_Sherwin_Bailey
+description: ''
+gutenberg_issued: '2023-11-07'
+identifiers:
+  gutenberg: '72063'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uva.x004992384
+pgterms:marc905: 20230523000650bailey
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: Bob Taylor, WebRover, Tim Lindell, Suzanne Wheeler, Peter Vachuska
+  and the Online Distributed Proofreading Team at https://www.pgdp.net (This book
+  was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aSpringfield, MA :$bMilton Bradley, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Once upon a time animal stories
+url: http://www.gutenberg.org/ebooks/72063
