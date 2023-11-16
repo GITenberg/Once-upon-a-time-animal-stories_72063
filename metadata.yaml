@@ -1,5 +1,8 @@
 _repo: Once-upon-a-time-animal-stories_72063
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72063-h/images/cover.jpg
 creator:
   author:
     agent_name: Bailey, Carolyn Sherwin
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8801
     wikipedia: https://en.wikipedia.org/wiki/Carolyn_Sherwin_Bailey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72063#Once-upon-a-time-animal-stories
 gutenberg_issued: '2023-11-07'
 identifiers:
   gutenberg: '72063'
